@@ -1,0 +1,53 @@
+{
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 42,
+    "spouse": {
+        "firstName": "Mary",
+        "lastName": "Smith",
+        "age": 40
+    },
+    "fav.movie": "Mr & Mrs Smith",
+    "addresses": [
+        {
+            "description": "home",
+            "street": "123 Peachtree Ln",
+            "city": "Atlanta",
+            "state": 2,
+            "postalCode": 30305
+        },
+        {
+            "description": "work",
+            "street": "456 Peachtree St",
+            "city": "Atlanta",
+            "state": 3,
+            "postalCode": 30305
+        }
+    ],
+    "phoneNumbers": [
+        {
+            "description": "home",
+            "number": "404-555-1234"
+        },
+        {
+            "description": "mobile",
+            "number": "678-555-1234"
+        }
+    ],
+    "friends": [
+        {"firstName": "Dale", "lastName": "Murphy", "age": 44},
+        {"firstName": "Roger", "lastName": "Craig", "age": 68},
+        {"firstName": "Jane", "lastName": "Murphy", "age": 47}
+    ],
+    "sellers": {
+        "Tom": {
+            "age": 31
+        }, 
+        "John": {
+            "age": 47
+        }, 
+        "Kassa": {
+            "age": 56
+        }
+    }
+}
